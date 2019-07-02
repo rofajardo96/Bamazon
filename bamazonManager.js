@@ -8,8 +8,8 @@ var connection = mysql.createConnection({
   port: 3306,
   // Root is default username.
   user: "root",
-  // Password is empty string.
-  password: "Pablo@12396",
+  // Password is empty.
+  password: "",
   database: "bamazon_db"
 });
 

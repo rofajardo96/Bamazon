@@ -11,7 +11,7 @@ var connection = mysql.createConnection({
   // Root is default username.
   user: "root",
   // Password is empty string.
-  password: "Pablo@12396",
+  password: "",
   database: "bamazon_db"
 });
 
